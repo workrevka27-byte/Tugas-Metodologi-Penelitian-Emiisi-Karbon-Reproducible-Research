@@ -54,11 +54,6 @@ Carbon-Emission-Reproducible-Research
 │   ├── grafik_emisi_ruas.png
 │   ├── grafik_emisi_kendaraan.png
 │   ├── grafik_kontribusi_ruas.png
-│   ├── package_version.csv
-│   ├── sessionInfo_01.txt
-│   ├── sessionInfo_02.txt
-│   ├── sessionInfo_03.txt
-│   └── sessionInfo_04.txt
 │
 ├── report/
 │
