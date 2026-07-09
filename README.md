@@ -276,7 +276,7 @@ Program Studi Teknik Sipil dan Lingkungan
 
 Sekolah Pascasarjana
 
-Institut Pertanian Bogor (IPB University)
+IPB University
 
 ---
 
